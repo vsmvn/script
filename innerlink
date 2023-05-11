@@ -1,0 +1,37 @@
+<script type="text/javascript">
+  const keywords = [
+    { keyword: 'Từ khoá 1', link: '/link-1' },
+    { keyword: 'Từ khoá 2', link: '/link-2' },
+    { keyword: 'từ khoá 3', link: '/link-3' }
+  ];
+
+  const maxKeywordsPerPage = 3;
+
+  function autoLink(content, keywords) {
+    let updatedContent = content;
+    let keywordCount = 0;
+
+    keywords.forEach(keyword => {
+      if (keywordCount >= maxKeywordsPerPage) return;
+
+      const regex = new RegExp('\\b(' + keyword.keyword + ')\\b', 'gi');
+      const hasKeyword = regex.test(content);
+
+      if (hasKeyword) {
+        const link = `<a href="${keyword.link}">$1</a>`;
+        updatedContent = updatedContent.replace(regex, link);
+        keywordCount++;
+      }
+    });
+
+    return updatedContent;
+  }
+
+  function updateContent() {
+    const content = document.documentElement.innerHTML;
+    const updatedContent = autoLink(content, keywords);
+    document.documentElement.innerHTML = updatedContent;
+  }
+
+  window.addEventListener('load', updateContent);
+</script>
