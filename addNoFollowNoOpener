@@ -1,0 +1,15 @@
+<script type="text/javascript">
+  function addNoFollowNoOpener() {
+    const links = document.getElementsByTagName('a');
+    const domain = location.hostname;
+
+    for (let link of links) {
+      const href = link.getAttribute('href');
+      if (href.startsWith('http') && !href.includes(domain)) {
+        link.setAttribute('rel', 'nofollow noopener');
+      }
+    }
+  }
+
+  window.addEventListener('load', addNoFollowNoOpener);
+</script>
