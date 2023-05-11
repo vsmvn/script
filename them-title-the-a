@@ -1,0 +1,9 @@
+<script type="text/javascript">
+  function addTitleToLinks() {
+    const links = document.querySelectorAll('a');
+    links.forEach(link => {
+      link.title = link.textContent.trim();
+    });
+  }
+  window.addEventListener('load', addTitleToLinks);
+</script>
