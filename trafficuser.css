@@ -1,0 +1,7 @@
+#codeIfrm {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    text-align: center;
+    z-index: 999999999;
+}
+#codeIfrm .lazyload, #codeIfrm .lazyloading {opacity: 1}
