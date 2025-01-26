@@ -1,0 +1,145 @@
+<div class="wp-bottom-menu" id="wp-bottom-menu">
+	<a href="/" class="wp-bottom-menu-item wp-bottom-menu-home">
+		<div class="wp-bottom-menu-icon-wrapper"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M5 12l-2 0l9 -9l9 9l-2 0"></path><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7"></path><path d="M10 12h4v4h-4z"></path></svg></div>
+		<span>Home</span>
+	</a>
+	<a href="#search-lightbox" aria-label="Search" data-open="#search-lightbox" data-focus="input.search-field" class="wp-bottom-menu-item">
+		<div class="wp-bottom-menu-icon-wrapper"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"></path><path d="M21 21l-6 -6"></path></svg></div>
+		<span>Tìm kiếm</span>
+	</a>
+	<a href="https://www.messenger.com/t/101319615435713/" class="wp-bottom-menu-item">
+		<div class="wp-bottom-menu-icon-wrapper"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M16.5 10c3.038 0 5.5 2.015 5.5 4.5c0 1.397 -.778 2.645 -2 3.47l0 2.03l-1.964 -1.178a6.649 6.649 0 0 1 -1.536 .178c-3.038 0 -5.5 -2.015 -5.5 -4.5s2.462 -4.5 5.5 -4.5z"></path><path d="M11.197 15.698c-.69 .196 -1.43 .302 -2.197 .302a8.008 8.008 0 0 1 -2.612 -.432l-2.388 1.432v-2.801c-1.237 -1.082 -2 -2.564 -2 -4.199c0 -3.314 3.134 -6 7 -6c3.782 0 6.863 2.57 7 5.785l0 .233"></path><path d="M10 8h.01"></path><path d="M7 8h.01"></path><path d="M15 14h.01"></path><path d="M18 14h.01"></path></svg></div>
+		<span>Chat live</span>
+	</a>
+<div href="" class="wp-bottom-menu-item t-dv"><div class="wp-bottom-menu-icon-wrapper"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M12 12v-6a2 2 0 0 1 4 0v6m0 -2a2 2 0 1 1 2 2h-6"></path><path d="M12 12h6a2 2 0 0 1 0 4h-6m2 0a2 2 0 1 1 -2 2v-6"></path><path d="M12 12v6a2 2 0 0 1 -4 0v-6m0 2a2 2 0 1 1 -2 -2h6"></path><path d="M12 12h-6a2 2 0 0 1 0 -4h6m-2 0a2 2 0 1 1 2 -2v6"></path></svg></div><span>Dịch vụ</span></div><div href="" class="wp-bottom-menu-item t-menu"><div class="wp-bottom-menu-icon-wrapper"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M14 4h6v6h-6z"></path><path d="M4 14h6v6h-6z"></path><path d="M17 17m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path><path d="M7 7m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"></path></svg></div><span>Danh mục</span></div></div>
+<aside class="menu-bottom-drawer menu-dv-mb">
+	<div class="title"><span class="closeMenu"></span>Dịch vụ của VSM</div><hr/>
+	<ul class="t-submenu">
+		<li onclick="window.location.href='/mua-traffic-user'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2023/01/ser-icon-1.png" />
+				<div class="title-child">
+					<h3><a href="/mua-traffic-user">Dịch vụ Traffic</a></h3>
+					<p>Giải pháp dịch vụ tăng traffic user, view website chất lượng cao từ người thật</p>
+				</div>
+			</div>
+		</li>
+		<li onclick="window.location.href='/dich-vu-backlink'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2022/12/icon_4.png" />
+				<div class="title-child">
+					<h3><a href="/dich-vu-backlink">Dịch Vụ Backlink</a></h3>
+					<p>Dịch vụ backlink chất lượng cao, giúp web lên TOP Google nhanh chóng</p>
+				</div>
+			</div>
+		</li>
+		<li onclick="window.location.href='/dich-vu-seeding'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2023/01/vti6-1.png" />
+				<div class="title-child">
+					<h3><a href="/dich-vu-seeding">Dịch vụ Seeding</a></h3>
+					<p>Giải pháp tăng tương tác mạng xã hội nhanh chóng và giá siêu rẻ</p>
+				</div>
+			</div>
+		</li>
+		<li onclick="window.location.href='/dich-vu-facebook'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2024/11/2023_Facebook_icon.svg" />
+				<div class="title-child">
+					<h3><a href="/dich-vu-facebook">Dịch Vụ Facebook</a></h3>
+					<p>Dịch Vụ Facebook: Tăng Like, Tăng Follow, Tăng Tương Tác nhanh chóng và chuyên nghiệp</p>
+				</div>
+			</div>
+		</li>
+		<li onclick="window.location.href='/dich-vu-tiktok'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2024/11/tiktok.webp" />
+				<div class="title-child">
+					<h3><a href="/dich-vu-tiktok">Dịch Vụ Tiktok</a></h3>
+					<p>Dịch Vụ TikTok Giá Rẻ: Tăng Follow, Like & View một cách nhanh chóng</p>
+				</div>
+			</div>
+		</li>
+		<li onclick="window.location.href='/dich-vu-instagram'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2023/06/instagram.png" />
+				<div class="title-child">
+					<h3><a href="/dich-vu-instagram">Dịch Vụ Instagram</a></h3>
+					<p>Dịch Vụ Instagram: tăng follow, Like, Comment Giá Siêu Rẻ, Tốc Độ Nhanh</p>
+				</div>
+			</div>
+		</li>
+
+		<li onclick="window.location.href='/dich-vu-youtube'">
+			<div class="title-box-service">
+				<img src="/wp-content/uploads/2024/11/youtube.png" />
+				<div class="title-child">
+					<h3><a href="/dich-vu-youtube">Dịch Vụ Youtube</a></h3>
+					<p>Dịch Vụ Youtube Toàn Diện: Tăng View, Sub, Like, Share Giá Tốt Nhất Thị Trường</p>
+				</div>
+			</div>
+		</li>
+	</ul>
+</aside>
+<aside class="menu-bottom-drawer t-menu-mb">
+	<div class="bg"></div>
+	<div class="tmn-content">
+		<div class="title"><span class="closeMenu"></span>Danh mục</div>
+		<ul class="t-submenu">
+<li>
+<a href="/mua-like">Mua like</a>
+</li>
+<li>
+<a href="/mua-follow">Mua Follow</a>
+</li>
+<li>
+<a href="/mua-view">Mua view</a>
+</li>
+<li>
+<a href="/traodoisub">Trao đổi sub</a>
+</li>
+			<li>
+				<a href="/blog">Blog</a>
+			</li>
+			<li>
+				<a href="https://extension.vsm.vn/" aria-current="page">Extension</a>
+			</li>
+			<li class="mn-td">
+				<a href="/cong-cu-vsm">Công Cụ <sup class="badge badge-danger">Hot</sup></a>
+			</li>
+<li>
+				<a href="https://app.vsm.vn/member/developers">API</a>
+			</li>
+		</ul>
+	</div>
+</aside>
+<style>
+:root{--wpbottommenu-font-size:12px;--wpbottommenu-icon-size:24px;--wpbottommenu-text-color:#555;--wpbottommenu-h-text-color:#000;--wpbottommenu-icon-color:#555;--wpbottommenu-h-icon-color:#000;--wpbottommenu-bgcolor:#fff;--wpbottommenu-zindex:9999;--wpbottommenu-cart-count-bgcolor:red;--wpbottommenu-wrapper-padding:10px 0}.wp-bottom-menu{display:none;background:var(--wpbottommenu-bgcolor);width:100%;position:fixed;bottom:0;left:0;justify-content:space-around;padding:var(--wpbottommenu-wrapper-padding);box-shadow:0 -5px 10px rgba(0,0,0,0.1);z-index:var(--wpbottommenu-zindex);transition:all 200ms}.wp-bottom-menu-item{position:relative;display:flex;flex-direction:column;justify-content:center;align-items:center;height:auto;flex:1;font-size:var(--wpbottommenu-font-size);text-decoration:none;color:var(--wpbottommenu-text-color);cursor:pointer;user-select:none;text-decoration:none!important;transition:color 200ms}.wp-bottom-menu-item:hover,.wp-bottom-menu-item.active,.wp-bottom-menu.sf-active .wp-bottom-menu-item.wp-bottom-menu-search-form-trigger{color:var(--wpbottommenu-h-text-color)}.wp-bottom-menu-item span{margin-top:5px;color:inherit}.wp-bottom-menu-item i{font-size:var(--wpbottommenu-icon-size);color:var(--wpbottommenu-icon-color);font-family:FontAwesome;transition:color 200ms}.wp-bottom-menu-item:hover i,.wp-bottom-menu-item.active i,.wp-bottom-menu.sf-active .wp-bottom-menu-item.wp-bottom-menu-search-form-trigger i{color:var(--wpbottommenu-h-icon-color)}.wp-bottom-menu-item svg{stroke:#0064d2;width:var(--wpbottommenu-icon-size);height:var(--wpbottommenu-icon-size)}.wp-bottom-menu-icon-wrapper{position:relative;line-height:0}.wp-bottom-menu-cart-count{position:absolute;box-sizing:content-box;top:-5px;left:50%;width:calc(var(--wpbottommenu-icon-size) * 0.75);height:calc(var(--wpbottommenu-icon-size) * 0.75);font-size:calc(var(--wpbottommenu-icon-size) * 0.5);line-height:calc(var(--wpbottommenu-icon-size) * 0.75);border:2px solid var(--wpbottommenu-bgcolor);border-radius:100%;text-align:center;background:var(--wpbottommenu-cart-count-bgcolor);color:var(--wpbottommenu-bgcolor);font-weight:700}.wp-bottom-menu-search-form-wrapper{display:none;position:fixed;bottom:0;left:0;width:100%;background:var(--wpbottommenu-bgcolor);padding:10px;transition:all 200ms;transform:translateY(100%)}.wp-bottom-menu-search-form input[type="search"]{border:1px solid #eee;border-radius:8px;width:100%;font-size:14px;height:40px;padding-left:40px;padding-right:30px}.wp-bottom-menu-search-form i{position:absolute;top:50%;left:30px;transform:translate(-50%,-50%)}.wp-bottom-menu-search-form-wrapper.sf-active{z-index:calc(var(--wpbottommenu-zindex) - 1);box-shadow:0 -5px 10px rgba(0,0,0,0.1);transform:translateY(0)}.wp-bottom-menu.sf-active{box-shadow:none}.menu-bottom-drawer{display:none}@media only screen and (max-width: 849px){.wp-bottom-menu .t-menu{opacity:1!important}.wp-bottom-menu{display:flex}.wp-bottom-menu-search-form-wrapper{display:block}.wp-bottom-menu-item{justify-content:space-between}.wp-bottom-menu-item{padding-top:6px}.wp-bottom-menu img{height:25px}.wp-bottom-menu span{margin-top:0}.menu-bottom-drawer{display:none;position:fixed;width:100%;height:100%;left:0;bottom:0;background:#fff;z-index:1001;overflow-y:scroll}.menu-bottom-drawer .title{padding:20px;font-size:20px;text-transform:uppercase;font-weight:600;background:#fff}.menu-bottom-drawer ul{padding-left:15px;padding-right:10px;list-style:none}.menu-bottom-drawer ul li:not(:last-child){border-bottom:1px dashed #262f5a}.menu-bottom-drawer ul li{padding:10px 0}.title-box-service{display:flex}.title-box-service img{width:60px;margin-right:5px;margin-bottom:0;height:60px}.title-box-service h3,.title-box-service p{margin-bottom:0}.title-box-service p{font-size:12px}.closeMenu{display:block;float:right;width:30px;height:30px;background:#f0f0f0;border-radius:50px;position:relative}.closeMenu:before,.closeMenu:after{background-color:#2d2d2d;content:"";left:14px;height:14px;position:absolute;top:8px;width:1px}.closeMenu:before{transform:rotate(45deg)}.closeMenu:after{transform:rotate(-45deg)}.t-menu-mb .title{background:transparent;padding-left:25px}.t-menu-mb{background-image:linear-gradient(90deg,#0064d2,#6992e5)}.mn-td{position:relative}.mn-td .badge{position:absolute;top:15px;left:90px;display:none}.mobile-nav .icon-search{color:#0064d2}.t-menu-mb a,.t-menu-mb .title{color:#fff}.t-menu-mb .title i{color:#000}.menu-bottom-drawer.t-menu-mb ul{padding:0!important}.t-menu-mb li{border-bottom:none!important;border-top:1px dashed rgba(255,255,255,0.5);margin-bottom:0;padding:15px 0!important;padding-left:45px!important;position:relative}.t-menu-mb li:before{content:"\f105";font-family:"fl-icons";color:#fff;margin-right:10px;font-weight:600;position:absolute;top:50%;left:25px;transform:translatey(-50%)}.t-menu-mb li a{display:block;font-weight:700}.wp-bottom-menu{padding-top:0}.wp-bottom-menu-item{padding-top:6px;border-top:2px solid #fff}.bd-t,.home .wp-bottom-menu-home,.wp-bottom-menu-item.current-lightbox-clicked{border-top:2px solid #0064d2}.home .wp-bottom-menu-item.active{border-top:2px solid #0064d2}.t-menu-mb li:hover{background-color:#0b53a3;padding-left:45px!important}.t-menu-mb li:hover:before{left:25px}li.header-search{display:none}}
+</style>
+<script>
+	window.addEventListener("load", function () {
+		jQuery(".t-dv").click(function () {
+			jQuery(".menu-dv-mb").slideToggle("slow");
+			jQuery(".t-menu-mb").hide();
+			jQuery(".t-dv").toggleClass("bd-t");
+			jQuery(".t-menu").removeClass("bd-t");
+		});
+		jQuery(".menu-dv-mb .closeMenu").click(function () {
+			jQuery(".menu-dv-mb").slideToggle("slow");
+			jQuery(".t-dv").toggleClass("bd-t");
+		});
+		jQuery(".t-menu").click(function () {
+			jQuery(".t-menu img").toggle();
+		});
+		jQuery(".t-menu").click(function () {
+			jQuery(".t-menu-mb").slideToggle("slow");
+			jQuery(".menu-dv-mb").hide();
+			jQuery(".t-menu").toggleClass("bd-t");
+			jQuery(".t-dv").removeClass("bd-t");
+		});
+		jQuery(".t-menu-mb .closeMenu").click(function () {
+			jQuery(".t-menu-mb").slideToggle("slow");
+			jQuery(".t-menu").toggleClass("bd-t");
+		});
+	});
+</script>
